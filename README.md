@@ -5,7 +5,7 @@
 ### AI/ML Engineer · Software Engineer · NLP & LLM Researcher
 
 **4+ years** building production AI and scalable backend systems at **Goldman Sachs** and **Morgan Stanley** ·
-ML Engineer Intern at **InSightX Lab** · M.S. Computer Science (Data Science) at **Northeastern University** — GPA 4.0/4.0
+ML Engineer Intern at **InSightX Lab** · M.S. Computer Science at **Northeastern University** — GPA 4.0/4.0
 
 📍 Seattle, Washington · 🟢 **Actively seeking full-time ML / AI and Software Engineering roles**
 
